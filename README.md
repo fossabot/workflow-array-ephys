@@ -13,6 +13,7 @@ To get started, see below for an [interactive tutorial](#interactive-tutorial) o
 ## Experiment flowchart
 
 ![flowchart](https://raw.githubusercontent.com/datajoint/element-array-ephys/main/images/diagram_flowchart.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdatajoint%2Fworkflow-array-ephys.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdatajoint%2Fworkflow-array-ephys?ref=badge_shield)
 
 ## Data pipeline for acute experiment
 
@@ -50,3 +51,6 @@ You will know your environment has finished loading once you either see a termin
 1. Once you are done, see the options available to you in the menu in the bottom-left corner. For example, in Codespace you will have an option to `Stop Current Codespace` but when running DevContainer on your own machine the equivalent option is `Reopen folder locally`. By default, GitHub will also automatically stop the Codespace after 30 minutes of inactivity.
 
 If you are new to GitHub and run into any errors, please contact us via email at support@datajoint.com. If you are experienced with GitHub, please create an issue on the upstream repository or if you'd like help contribute, feel free to create a pull request. Please include a thorough explanantion of the error and/or proposed solution.
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdatajoint%2Fworkflow-array-ephys.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdatajoint%2Fworkflow-array-ephys?ref=badge_large)
